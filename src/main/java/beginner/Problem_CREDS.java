@@ -2,7 +2,7 @@ package beginner;
 
 import java.util.Scanner;
 
-public class Problem_002 {
+public class Problem_CREDS {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int N = scan.nextInt();
